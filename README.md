@@ -39,3 +39,7 @@ If you run a version of this:
 - Make clear in the invitation that no AI use is expected or required.
 - Do not list speakers, venues, or dates as commitments before every side has confirmed them in writing.
 - If a co-organizer or speaker shares something privately while planning, keep it out of public material until they agree to publish it.
+
+---
+
+Built with AI assistance (Instinct and others). Not everything has been reviewed by Irvan.
